@@ -32,6 +32,7 @@ const goHome = () => {
   flex-direction: row;
   align-items: center;
   gap: 5px;
+  width: fit-content;
 }
 
 .header {
