@@ -9,8 +9,8 @@
       </v-toolbar-title>
 
       <div class="button-group">
-        <v-btn variant="flat" color="primary" to="/login"> Log In </v-btn>
-        <v-btn text="true" to="/signup">Sign Up</v-btn>
+        <v-btn variant="flat" color="primary" to="/auth/login"> Log In </v-btn>
+        <v-btn text="true" to="/auth/signup">Sign Up</v-btn>
       </div>
     </div>
   </v-app-bar>
